@@ -38,10 +38,10 @@
                                     <constraint firstAttribute="height" constant="179" id="FYc-nv-bKH"/>
                                 </constraints>
                             </imageView>
-                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" pagingEnabled="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QZw-59-ftM">
-                                <rect key="frame" x="57.5" y="0.0" width="260" height="667"/>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" pagingEnabled="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QZw-59-ftM">
+                                <rect key="frame" x="57.5" y="0.0" width="220" height="667"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="260" id="yzS-VT-Xe8"/>
+                                    <constraint firstAttribute="width" constant="220" id="yzS-VT-Xe8"/>
                                 </constraints>
                             </scrollView>
                         </subviews>
